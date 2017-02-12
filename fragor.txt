@@ -1,0 +1,30 @@
+﻿ (Obs! första uppfigten (Bank) är lite sämmre' än de andra.. :) 
+
+1.
+	Det är första gången som jag använder mig av TDD conceptet, och Unittesting.
+
+
+
+2.
+	Metoder som behöver testas är först och främst de metoder som tar eller returnear
+	objekt. I mitt fall blir det nog följande
+
+	AddProduct(), 
+	RemoveProduct(), 
+	CalcOrder() - (använder ShipsTo()) Först och främst för att 
+	se att själva TotalCost har fått det rätt.
+
+3.
+
+	Det finns egentligen många fall där det kan gå fel, man vill inte sätta
+	properties från product -> icartItem som inte finns, man vill heller inte 
+	råka ut för null exception, att försöka räkna ut en total cost som inte finns
+	eller en shipping för ett land som är whitespace. Men jag har inte tagit det
+	så långt med mina exception.
+
+
+4. 
+	exempel: AddProduct(Product p, int Amount) 
+
+	(Product p) har domänen object, av typen product, kan även vara null! (go,go exception !!)
+	Typen (Amount int) är Prime/heltal, dvs: mellan -2,147,483,648 samt  2,147,483,647
