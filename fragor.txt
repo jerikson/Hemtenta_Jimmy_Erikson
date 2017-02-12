@@ -1,13 +1,20 @@
 ﻿ (Obs! första uppfigten (Bank) är lite sämmre' än de andra.. :) 
 
 1.
-	Det är första gången som jag använder mig av TDD conceptet, och Unittesting.
+	I kursen är första gången som jag använder mig av TDD conceptet, och Unittesting.
+	Jag kommer definitivt börja skriva tester i tidigt skede för kommande projekt.
+	
+	Jag har i alla fall börjat med att implementera skal av metoderna som finns i interface
+	för att kunna testa dem, som jag förstår det handlar det i början om att skriva så minimalt
+	med kod som möjligt för att få testet att 'passera'. Allt eftersom har jag implementerat mer
+	funktionalitet för fler tester, ibland kanske failat tidigare test. När testerna åter igen 
+	blev godkända gicks koden igenom igen, ibland för att plocka bort onödig, gammal kod, ibland
+	bara för att snygga till den.
 
 
 
 2.
-	Metoder som behöver testas är först och främst de metoder som tar eller returnear
-	objekt. I mitt fall blir det nog följande
+	De metoder som jag fokuserat på att testa är följande
 
 	AddProduct(), 
 	RemoveProduct(), 
@@ -19,7 +26,7 @@
 	Det finns egentligen många fall där det kan gå fel, man vill inte sätta
 	properties från product -> icartItem som inte finns, man vill heller inte 
 	råka ut för null exception, att försöka räkna ut en total cost som inte finns
-	eller en shipping för ett land som är whitespace. Men jag har inte tagit det
+	inte att user söker efter ett land med siffror, Men jag har inte tagit det
 	så långt med mina exception.
 
 
