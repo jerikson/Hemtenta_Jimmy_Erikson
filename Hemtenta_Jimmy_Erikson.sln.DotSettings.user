@@ -1,0 +1,40 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=0079ED9B66A44A9B9CB2801FBFA34F81/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=0079ED9B66A44A9B9CB2801FBFA34F81/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=0079ED9B66A44A9B9CB2801FBFA34F81/Name/@EntryValue">Test</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=0079ED9B66A44A9B9CB2801FBFA34F81/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Test.BlogTest" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.BlogTest.Email_Send_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.BlogTest.Login_User_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.BlogTest.Logout_User_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.BlogTest.Publish_InvalidUser_Throws" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.BlogTest.Publish_Page_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.MusicTest" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.MusicTest.FetchSongs_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.MusicTest.MusicPlayer_Ctor_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.MusicTest.NextTrack_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.MusicTest.OpenConnection_AlreadyOpen_Throws" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.MusicTest.PlayTrack_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.MusicTest.StopTrack_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.WebshopTest.Cart_Total_Cost_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.WebshopTest" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.WebshopTest.Cart_RemoveItem_Succes" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.WebshopTest.Cart_AddItem_Succes" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.WebshopTest.Cart_Checkout_ILLEGAL_REGION" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.WebshopTest.Cart_Checkout_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.BankTest" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.BankTest.AccountCtorTest" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.BankTest.Deposit_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.BankTest.Transfer_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.BankTest.Withdraw_Success" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;e Id="Test.BlogTest.Publish_PageNull_Throws" Project="2ADDE836-0E02-405C-98C0-F1BC419DC0BD" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=0E7C3BA20C7649C691C92D51B05F6A28/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=0E7C3BA20C7649C691C92D51B05F6A28/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=0E7C3BA20C7649C691C92D51B05F6A28/Name/@EntryValue">MusicTest</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=0E7C3BA20C7649C691C92D51B05F6A28/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3104CDBC97564ED5AFBCCC05E001EFA9/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3104CDBC97564ED5AFBCCC05E001EFA9/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3104CDBC97564ED5AFBCCC05E001EFA9/Name/@EntryValue">NextSong</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=3104CDBC97564ED5AFBCCC05E001EFA9/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=987BB4D0D44F45A0A3CB4DEA5C1F99FD/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=987BB4D0D44F45A0A3CB4DEA5C1F99FD/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=987BB4D0D44F45A0A3CB4DEA5C1F99FD/Name/@EntryValue">NextSong</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=987BB4D0D44F45A0A3CB4DEA5C1F99FD/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C09D58928E18413CADF18806D3A17964/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C09D58928E18413CADF18806D3A17964/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C09D58928E18413CADF18806D3A17964/Name/@EntryValue">Session</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C09D58928E18413CADF18806D3A17964/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	</wpf:ResourceDictionary>
